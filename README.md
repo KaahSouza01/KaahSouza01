@@ -3,12 +3,9 @@
 - 🌱 Estudando: Ciência da Computação
 - 📫 How to reach me: hinathaushima@gmail.com
 
-<div align="center">
-  <a href="https://github.com/KaahSouza01">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaahSouza01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaahSouza01&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="kaah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
