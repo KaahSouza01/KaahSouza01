@@ -6,8 +6,6 @@
 <div align="center">
   <a href="https://github.com/KaahSouza01">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaahSouza01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaahSouza01&layout=compact" />
-    
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaahSouza01&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,10 +29,4 @@
 </div>
 
   ![Snake animation](https://github.com/KaahSouza01/KaahSouza01/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaahSouza01&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
 
