@@ -2,7 +2,6 @@
 
 - 🌱 Estudando: Ciência da Computação
 - 📫 How to reach me: hinathaushima@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/KaahSouza01">
