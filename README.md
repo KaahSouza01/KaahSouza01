@@ -1,4 +1,4 @@
-### Oii, sou a Karolyne Teixera
+### Karolyne Teixera
 
 - 🌱 Estudando: Ciência da Computação
 - 📫 How to reach me: hinathaushima@gmail.com
