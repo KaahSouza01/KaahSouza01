@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/KaahSouza01">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaahSouza01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=KaahSouza01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaahSouza01&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
