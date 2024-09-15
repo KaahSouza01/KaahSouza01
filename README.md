@@ -1,6 +1,7 @@
 ### Oii, sou a Karolyne Teixera
 
-- 🌱 Estudando: Ciência da Computação
+- 🌱 Estudando: Analise e Desenvolvimento de Sistemas
+- Focus: Ia - Engenharia Mecatronica 
 - 📫 How to reach me: hinathaushima@gmail.com
 - 😄 Pronouns: ela/dela
 
