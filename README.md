@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: Analise e Desenvolvimento de Sistemas
 - Focus: Ia - Engenharia Mecatronica 
-- 📫 How to reach me: hinathaushima@gmail.com
+- 📫 How to reach me: ky.souzat@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
