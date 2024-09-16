@@ -1,9 +1,8 @@
-### Oii, sou a Karolyne Teixera
+### Oii, sou a Karolyne Souza
 
 - 🌱 Estudando: Analise e Desenvolvimento de Sistemas
 - Focus: Ia - Engenharia Mecatronica 
 - 📫 How to reach me: ky.souzat@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/KaahSouza01">
@@ -12,9 +11,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="kaah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kaah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kaah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
